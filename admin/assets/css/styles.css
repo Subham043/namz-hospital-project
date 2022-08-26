@@ -4562,7 +4562,7 @@ a.text-light:hover {
 /*  Forms
 /* ---------------------------------------------------------------------- */
 fieldset {
-  background: #ffffff;
+  background: transparent;
   border: 1px solid #e6e8e8;
   border-radius: 5px;
   margin: 20px 0 20px 0;
@@ -4574,7 +4574,7 @@ fieldset .form-group {
   margin-right: 0;
 }
 fieldset legend {
-  background: inherit;
+  background: #a0c0d5;
   font-family: "Lato", sans-serif;
   color: #007AFF;
   font-size: 15px;
@@ -9372,7 +9372,7 @@ nav.links a {
   padding: 0 10px;
 }
 .main-login .box-login, .main-login .box-forgot, .main-login .box-register {
-  background: #FFFFFF;
+  background: #a0c0d5;
   border-radius: 5px;
   overflow: hidden;
   padding: 15px;

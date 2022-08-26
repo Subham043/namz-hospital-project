@@ -49,6 +49,11 @@ exit();
 		<link rel="stylesheet" href="assets/css/styles.css">
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
+		<style>
+			body{
+				background-image: url('./assets/images/bg.png');
+			}
+		</style>
 	</head>
 	<body class="login">
 		<div class="row">
